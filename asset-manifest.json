@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LauraCastellanos13/Flights-App.git/static/css/main.3a7fa3f4.css",
+    "main.js": "/LauraCastellanos13/Flights-App.git/static/js/main.ada8dc38.js",
+    "static/js/787.38285caa.chunk.js": "/LauraCastellanos13/Flights-App.git/static/js/787.38285caa.chunk.js",
+    "static/media/background-travel-2.jpg": "/LauraCastellanos13/Flights-App.git/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/LauraCastellanos13/Flights-App.git/index.html",
+    "main.3a7fa3f4.css.map": "/LauraCastellanos13/Flights-App.git/static/css/main.3a7fa3f4.css.map",
+    "main.ada8dc38.js.map": "/LauraCastellanos13/Flights-App.git/static/js/main.ada8dc38.js.map",
+    "787.38285caa.chunk.js.map": "/LauraCastellanos13/Flights-App.git/static/js/787.38285caa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7fa3f4.css",
+    "static/js/main.ada8dc38.js"
+  ]
+}
